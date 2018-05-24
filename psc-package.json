@@ -1,0 +1,9 @@
+{
+  "name": "purescript-0.12.0-hello-world",
+  "set": "psc-0.12.0-20180524",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "prelude"
+  ]
+}
