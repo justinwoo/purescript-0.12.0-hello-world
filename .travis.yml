@@ -1,0 +1,16 @@
+sudo: false
+language: node_js
+cache:
+  directories:
+    - node_modules
+    - $HOME/.npm
+node_js:
+  - "8"
+  - "9"
+  - "10"
+  - node
+install:
+  - npm install -g purescript@0.12.0 pulp psc-package
+script:
+  - psc-package install
+  - pulp run
