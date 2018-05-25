@@ -23,6 +23,10 @@ look, show on Record:
 
 No, unless you know exactly what you might use Bower for, you do not need it at all. You should be using Psc-Package like this repo does.
 
+### I can't get this working
+
+You probably need at least Pulp 12.2.0 and Psc-Package 0.3.0. Install those if your versions are older.
+
 ## "Installation"
 
 Install `purescript`, `pulp`, and `psc-package` to get started.
