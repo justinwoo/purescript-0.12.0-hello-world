@@ -1,5 +1,7 @@
 # PureScript 0.12.0 Hello World
 
+[![Build Status](https://travis-ci.org/justinwoo/purescript-0.12.0-hello-world.png)](https://travis-ci.org/justinwoo/purescript-0.12.0-hello-world)
+
 You can get started with PureScript 0.12.0 easily by using this repo.
 
 If you have everything installed, you should be able to follow this:
